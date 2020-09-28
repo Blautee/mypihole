@@ -1,0 +1,2 @@
+# Scam List
+0.0.0.0 https://dadsats.com/
